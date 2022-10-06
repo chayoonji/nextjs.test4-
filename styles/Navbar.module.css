@@ -1,0 +1,21 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: rgb(28, 28, 28);
+  display: flex;
+  justify-content: center;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  color: white;
+}
+
+.links a {
+  font-size: 1.5rem;
+  margin-left: 20px;
+}
