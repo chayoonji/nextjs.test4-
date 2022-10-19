@@ -13,16 +13,16 @@ export default function Navbar() {
           <a>About</a>
         </Link>
 
-        <Link href="/profile">
+        {/* <Link href="/profile">
           <a>profile</a>
-        </Link>
+        </Link> */}
 
         <Link href="/coins">
-          <a>coins</a>
+          <a>Coins</a>
         </Link>
 
         <Link href="/contect">
-          <a>주인장</a>
+          <a>Profile</a>
         </Link>
       </div>
     </div>

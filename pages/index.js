@@ -13,13 +13,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        {/* <Link href="about"> About</Link>
-        <Link href="profile"> profile</Link>
-        <Link href="docs"> docs</Link>
-        <Link href="docs/bclee"> bclee</Link> */}
-        <h1 className={styles.title}>
-          HELLO WORLD!! Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <h1 className={styles.title}>HELLO WORLD!!</h1>
+        <h2 className={styles.title}>
+          Welcome to <a href="https://nextjs.org">Next.js!</a>
+        </h2>
       </main>
     </div>
   );
